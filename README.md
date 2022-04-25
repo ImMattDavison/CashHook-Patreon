@@ -2,7 +2,7 @@
 
 ## What is CashHook? 
 
-CashHook is a simple to use and swift setup webhook tool for Ko-Fi, BuyMeACoffee and Patreon. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.
+CashHook is a simple to use and swift setup webhook tool for the top creator donation platforms. CashHook is a project built for MLH event - The Hackconomist. CashHook was made with the intention of making it easier for creators to make sure their community and monetary supporters feel recognised for what they do.
 
 ## How do I use it?
 
@@ -10,7 +10,7 @@ CashHook on Autocode is made to be simple, you can follow the flow to add the co
 
 ## Does it cost to use CashHook?
 
-CashHook is free and open source, meaning there are no fees to use CashHook, however we would really appreciate any donations to our [Ko-Fi page](https://ko-fi.com/cashhook)!
+CashHook is free and open source, meaning there are no fees to use CashHook, however we would really appreciate any donations to our [donation page](https://ko-fi.com/cashhook)!
 
 ## How do I get my CashHook link in Autocode?
 
